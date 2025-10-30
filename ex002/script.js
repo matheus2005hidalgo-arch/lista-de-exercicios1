@@ -1,4 +1,4 @@
 let nome = prompt ("Digite seu nome:")
-let idade = prompt ("Digite seu idade")
+let cor= prompt ("Digite sua cor favorita")
 
-alert(`olá ${nome} voce  tem ${idade} anos!`)
+alert(`olá ${nome} sua cor favorita é ${cor}!`)
